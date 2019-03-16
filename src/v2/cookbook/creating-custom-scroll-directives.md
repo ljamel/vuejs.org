@@ -55,6 +55,7 @@ Nous avons également besoin d'une propriété pour calculer les valeurs interm�
 
 ```css
 .box {
+  opacity: 0;
   transition: 1.5s all cubic-bezier(0.39, 0.575, 0.565, 1);
 }
 ```
